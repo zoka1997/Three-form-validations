@@ -1,5 +1,5 @@
 React Form Validation
-React Form is made from three validations example
+React Form example three validations
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
